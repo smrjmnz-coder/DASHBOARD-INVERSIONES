@@ -1,0 +1,6 @@
+!pip install dash==2.18.2 plotly==5.24.1 -q
+!pip install yfinance==0.2.50 -q
+!pip install vaderSentiment==3.3.2 -q
+!pip install transformers==4.45.2 torch==2.4.1 -q
+!pip install scipy==1.14.1 pyngrok==7.2.0 -q
+print("\n✓ Todas las librerías instaladas correctamente")
